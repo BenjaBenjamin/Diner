@@ -1,0 +1,194 @@
+[
+{
+id: 1,
+kategori: "burgere",
+navn: "MushroomBurger",
+pris: "79kr.",
+kort: "Cheeseburger med stegte svampe",
+billede: "mushrrom"
+},
+{
+id: 2,
+kategori: "burgere",
+navn: "Bacon Cheese",
+pris: "79kr.",
+kort: "En lækker bacon cheeseburger",
+billede: "bacon"
+},
+{
+id: 3,
+kategori: "burgere",
+navn: "4xCheese",
+pris: "89kr.",
+kort: "4 små men delikate cheeseburgers, perfekt til deling",
+billede: "burgere"
+},
+{
+id: 4,
+kategori: "burgere",
+navn: "ChickenBurger",
+pris: "69kr.",
+kort: "Kyllingeburger til dem med fjerdragt",
+billede: "kyllingburger"
+},
+{
+id: 5,
+kategori: "burgere",
+navn: "DoubleCheese",
+pris: "79kr.",
+kort: "Double op på bøf og ost",
+billede: "double cheese"
+},
+{
+id: 6,
+kategori: "burgere",
+navn: "OnionBurger",
+pris: "79kr.",
+kort: "Cheeseburger med stegte løg ",
+billede: "onion"
+},
+{
+id: 7,
+kategori: "desserter",
+navn: "Skovbæris",
+pris: "35kr.",
+kort: "Isdessert med lækker smag af skovbær",
+billede: "skovbæris"
+},
+{
+id: 8,
+kategori: "desserter",
+navn: "Pistacheis",
+pris: "35kr.",
+kort: "Isdessert med lækker smag af Pistache",
+billede: "pistacheis"
+},
+{
+id: 9,
+kategori: "desserter",
+navn: "Chokoladekage",
+pris: "35kr.",
+kort: "Lækker Chokoladekage ",
+billede: "chokoladekage"
+},
+{
+id: 10,
+kategori: "desserter",
+navn: "Pandekager",
+pris: "40kr.",
+kort: "Pandekager med sirup eller is",
+billede: "pandekager"
+},
+{
+id: 11,
+kategori: "desserter",
+navn: "Vaffler",
+pris: "40kr.",
+kort: "Vaffler med sirup eller is",
+billede: "vaffler"
+},
+{
+id: 12,
+kategori: "sideorders",
+navn: "Pommesfritter",
+pris: "30kr.",
+kort: "Medfølger 1 valgfri dressing",
+billede: "fritter"
+},
+{
+id: 13,
+kategori: "sideorders",
+navn: "CurlyFries",
+pris: "35kr.",
+kort: "medfølger 1 valgfri dressing",
+billede: "krølle"
+},
+{
+id: 14,
+kategori: "sideorders",
+navn: "Salatbar",
+pris: "25kr.",
+kort: "Frit valg på alle salathylder",
+billede: "salat"
+},
+{
+id: 15,
+kategori: "drikkevarer",
+navn: "Sodavand",
+pris: "30kr.",
+kort: "Frit valg på alle sodahylder",
+billede: "sodavand"
+},
+{
+id: 16,
+kategori: "drikkevarer",
+navn: "Saltcaramel ",
+pris: "50kr.",
+kort: "En milkshake med smag af saltet karamel",
+billede: "milk 1"
+},
+{
+id: 17,
+kategori: "drikkevarer",
+navn: "Cherry Vanilla",
+pris: "50kr.",
+kort: "Du har smagt sodavanden, milkshaken er bedre!",
+billede: "milk 2"
+},
+{
+id: 18,
+kategori: "drikkevarer",
+navn: "Mint chocolate",
+pris: "50kr.",
+kort: "Mint og chokolade er et perfekt fit",
+billede: "milk 3"
+},
+{
+id: 19,
+kategori: "drikkevarer",
+navn: "S´mores",
+pris: "50kr.",
+kort: "En skumfidus chokobombe",
+billede: "milk 4"
+},
+{
+id: 20,
+kategori: "drikkevarer",
+navn: "PeanutButterBrownie",
+pris: "50kr.",
+kort: "Uden syltetøj!",
+billede: "milk 5"
+},
+{
+id: 21,
+kategori: "drikkevarer",
+navn: "Oreo",
+pris: "50kr.",
+kort: "Smagen som ikke behøves forklaring",
+billede: "milk 6"
+},
+{
+id: 22,
+kategori: "drikkevarer",
+navn: "FruityPebble",
+pris: "50kr.",
+kort: "9 om dagen!",
+billede: "milk 7"
+},
+{
+id: 23,
+kategori: "drikkevarer",
+navn: "StrawberryCheesecake",
+pris: "50kr.",
+kort: "9 om dagen!",
+billede: "milk 8"
+},
+{
+id: 24,
+kategori: "drikkevarer",
+navn: "Banana Creampie",
+pris: "50kr.",
+kort: "9 om dagen!",
+billede: "milk 9"
+}
+]
